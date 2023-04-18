@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2301.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2301.pdf) <br/><br/>
+[CV](/img/cv_im2304.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2304.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -35,7 +35,6 @@ Another important aspect of working in the Mijakovic lab is the spirit or collab
 
 * Prof. Mijakovic is coordinator of an EU ITN consortium “PEST-BIN” – working on new methods to fight bacterial infections.
 * Prof. Mijakovic is coordinator of a Nord Forsk consortium GRAMI – working on combining nanotechnology and antibiotics to fight biofilm-related infections.
-* Prof. Mijakovic is the winner of the 2021 Spiridon Brusina Medal awarded by the Croatian Society of Natural Sciences.
 
 <br/>
 
@@ -65,14 +64,11 @@ Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Martin Lovmar, Adjunct Professor\
-Pragati Rajendra More, visiting PhD student\
-Nihal Kottan, MSc student\
-Victor Lanai, MSc student
+Nihal Kottan, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
-Julie Bonne Køhler, Post-doc\
 Abhayraj Joshi, Post-doc\
 Colleen Manyumwa, Post-doc\
 Suvasini Balasubramanian, PhD student\
@@ -83,6 +79,7 @@ Belay Tilahun Tadesse, PhD student\
 Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
 Saranya Nallapareddy, PhD student\
+Pragati Rajendra More, visiting PhD student\
 Darko Kjiproski, Project manager\ 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
@@ -108,7 +105,8 @@ Mériem Senissar\
 Abhroop Garg\
 Vaishnavi Ravikumar\
 Mohsen Zareian\
-Avlant Nilsson
+Avlant Nilsson\
+Julie Bonne Køhler
 
 ***PhD students:***\
 Mette Erichsen Hansen\
@@ -154,4 +152,5 @@ Li Xu\
 Sophie Antonsson\
 Mugdha Bapat\
 Iza Erzar\
-Nisha Neupane
+Nisha Neupane\
+Victor Lanai
