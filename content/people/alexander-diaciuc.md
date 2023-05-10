@@ -1,0 +1,12 @@
+---
+name: Alexander Diaciuc
+title: Alexander-Diaciuc
+lastname: Diaciuc
+picture: img/pic_alexander-diaciuc.jpg
+position: Visiting MSc student
+email: diaciuc@chalmers.se
+flags:
+  - uk Ukraine
+person-category: G Master students
+template: people/profile
+---
