@@ -6,7 +6,7 @@ picture: img/pic_alexander-diaciuc.jpg
 position: Visiting MSc student
 email: diaciuc@chalmers.se
 flags:
-  - uk Ukraine
+  - ua Ukraine
 person-category: G Master students
 template: people/profile
 ---
