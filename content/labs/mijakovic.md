@@ -49,6 +49,8 @@ Please note that our group cannot accommodate such requests. All our PhD positio
 ![Mijakovic Lab](/img/pic_IM-group_photo23_720.jpg "Lab outing 2023")
 
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
+Dina Petranovic, Guest Professor\
+Martin Lovmar, Adjunct Professor\
 Lei Shi, researcher\
 Santosh Pandit, researcher\
 Xin Chen, researcher\
@@ -63,7 +65,6 @@ Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
-Martin Lovmar, Adjunct Professor\
 Nihal Kottan, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
