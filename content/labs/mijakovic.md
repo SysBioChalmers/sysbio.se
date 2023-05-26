@@ -51,10 +51,10 @@ Please note that our group cannot accommodate such requests. All our PhD positio
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
 Dina Petranovic, Guest Professor\
 Martin Lovmar, Adjunct Professor\
-Lei Shi, researcher\
-Santosh Pandit, researcher\
-Xin Chen, researcher\
-Shadi Rahimi, Post-doc\
+Lei Shi, Researcher\
+Santosh Pandit, Researcher\
+Xin Chen, Researcher\
+Shadi Rahimi, Researcher\
 Yanyan Chen, Post-doc\
 Caroline Wasén, Post-doc\
 Jian Zhang, Post-doc\
