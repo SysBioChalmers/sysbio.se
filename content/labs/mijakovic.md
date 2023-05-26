@@ -46,7 +46,7 @@ Please note that our group does not admit internships/student projects shorter t
 
 Please note that our group cannot accommodate such requests. All our PhD positions are always advertised at the university vacancies website. If you see a position that suits you, please apply via the official channels. If you don’t see any positions, that means we have none currently.
 
-![Mijakovic Lab](/img/pic_imgroup21_720.jpg "Lab outing 2021")
+![Mijakovic Lab](/img/pic_IM-group_photo23.jpg "Lab outing 2023")
 
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
 Lei Shi, researcher\
