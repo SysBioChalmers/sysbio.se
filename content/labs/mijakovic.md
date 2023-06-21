@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2304.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2304.pdf) <br/><br/>
+[CV](/img/cv_im2304.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2306.pdf) <br/><br/>
 
 ![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
 
@@ -80,7 +80,9 @@ Belay Tilahun Tadesse, PhD student\
 Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
 Saranya Nallapareddy, PhD student\
+Peter Gockel, PhD student\
 Pragati Rajendra More, visiting PhD student\
+Ivana Saraga, MSc student\
 Darko Kjiproski, Project manager\ 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
