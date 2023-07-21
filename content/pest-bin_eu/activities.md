@@ -170,7 +170,7 @@ ESR2 Munis Khan and ESR14 Hengzhi Ruan gave a seminar regarding the topics of ba
 
 ESR9 Payal Nashier recently had the opportunity to take part in Kinder-Uni-Forschungstag which is " Children’s University Research Day " where she had the chance to interact with 13 school going children of 10-12 years age with microbes and antibacterial things around us by different activities. The event took place on July 1st, 2023.
 
-![](img/f0guhh0xwaak3uo.jpg)
+![](../img/f0guhh0xwaak3uo.jpg)
 
 <br>
 
