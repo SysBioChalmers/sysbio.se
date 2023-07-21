@@ -72,8 +72,9 @@ ESR4 Lydia Palaiodimou poster presentation in the Analytics Congress 2022 which 
 
 <br>
 
-ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chalmers presented his research at The Nordic Polimer Days 2023 in Copenhagen from May 8-10th.
+ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chalmers presented his research at The Nordic Polimer Days 2023 in Copenhagen from May 8-10th. 
 
+![](../img/conference-cph.jpg)
 
 <br>
 
