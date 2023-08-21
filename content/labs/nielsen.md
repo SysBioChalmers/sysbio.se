@@ -17,13 +17,7 @@ profileleftbox: |-
 
 <br/>
 
-Our research focus is on systems biology of metabolism. The yeast *Saccharomyces cerevisiae* is our key organism for experimental research, but we also have experimental research on *Aspergilli oryzae*.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
-
-Our research activities fall in three areas:
-
-* Studying regulatory pathways that are conserved in the Eukaryal kingdom such as the Snf1/AMPK pathway, the Tor1/mTOR pathway, protein folding, secretion and degradation and regulation of lipid biosynthesis and degradation.
-* Developing efficient cell factories (yeast and *Aspergilli*) for sustainable production of fuels and chemicals. We are looking into both the production of high-value chemicals such as isoprenoids that can be used as fine chemicals, commodity chemicals that can be used as feedstocks in the chemical industry for polymer production, and novel advanced biofuels.
-* Developing metabolic models for Eukaryal cells, including rodent and human cells, and using these models as scaffolds for analysis of omics data with the objective to understand global responses to nutrient and disease. Experimental work is carried out in collaboration with other research groups.
+Over the years we have used the yeast *Saccharomyces cerevisiae* as both a model organism and as a cell factory, but the group do not have any active research on yeast anymore. Current focus is on systems biology of human metabolism, including the human gut microbiome.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
 Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
 <br/>
@@ -32,19 +26,10 @@ Several of our research activities are part of the Novo Nordisk Foundation Cente
 #### Research Projects
 
 **Human Metabolic Atlas**\
-We are building genome-scale metabolic models for different human cell types and using these models for identification of novel prognostic biomarkers for human diseases like type 2 diabetes, cardiovascular disease and cancer (see [www.metabolicatlas.com](http://www.metabolicatlas.com/)). We have many national and international collaborators on this project.
+We are building genome-scale metabolic models for different human cell types and using these models for identification of novel prognostic biomarkers for human diseases like type 2 diabetes, cardiovascular disease and cancer (see [www.metabolicatlas.com](http://www.metabolicatlas.com/)).
 
 **Gut Metagenomics**\
 We are analyzing the gut metagenome in different cohort studies and aim to identify biomarkers and novel treatment strategies for human diseases. Much of our work in this field is in close collaboration with Prof. Fredrik Båckhed at Sahlgrenska Academy, Gothenburg University.
-
-**Microbial models**\
-Genome-scale metabolic models are developed for different microorganisms and we are in particular advancing genome-scale modeling of the yeast Saccharomyces cerevisiae. All our models are available through [www.sysbio.se/BioMet](http://www.sysbio.se/BioMet/).
-
-**Stress and Regulation**\
-Key signal transduction pathways in *S. cerevisiae* are analyzed using systems biology approaches. Our focus is on energy and lipid metabolism.
-
-**Protein production**\
-Using systems biology and metabolic engineering we are advancing the use of *S. cerevisiae* for recombinant protein production. Through a combination of advanced modeling and engineering of the secretory pathway we are developing yeasts that can be used for production of human therapeutic proteins and for consolidated bioprocesses.
 <br/>
 <br/>
 
