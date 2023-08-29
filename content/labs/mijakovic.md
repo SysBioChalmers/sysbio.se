@@ -65,7 +65,7 @@ Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
-Nihal Kottan, MSc student
+Mohsen Bahmani, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -156,4 +156,5 @@ Sophie Antonsson\
 Mugdha Bapat\
 Iza Erzar\
 Nisha Neupane\
-Victor Lanai
+Victor Lanai\
+Nihal Kottan
