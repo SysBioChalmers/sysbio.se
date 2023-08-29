@@ -83,7 +83,7 @@ Saranya Nallapareddy, PhD student\
 Peter Gockel, PhD student\
 Pragati Rajendra More, visiting PhD student\
 Ivana Saraga, MSc student\
-Darko Kjiproski, Project manager\ 
+Darko Kjiproski, Project manager 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
 
