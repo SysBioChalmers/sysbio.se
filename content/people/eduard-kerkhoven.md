@@ -7,6 +7,7 @@ position: Senior researcher, Computational Metabolic Engineering
 email: eduardk [at] chalmers.se
 flags:
   - nl Netherlands
+  - se Sweden
 person-category: C Extended faculty group leaders
 template: people/profile
 ---
