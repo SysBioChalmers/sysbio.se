@@ -3,7 +3,7 @@ name: Lars Martens
 title: Lars-Martens
 lastname: Martens
 picture: img/pic_lars-martens.jpg
-position: visting MSc student
+position: visiting MSc student
 email: martensl [at] chalmers.se
 flags:
   - nl Netherlands
