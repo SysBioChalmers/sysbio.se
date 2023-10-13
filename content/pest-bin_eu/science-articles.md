@@ -46,6 +46,14 @@ image: null
 
 2﻿*3-03-2023*
 
+<br>
+
 **ESR14 Hengzhi Ruan** published his second popular science article with title "[How the tiny polysaccharides prevent healthcare-associated infections?](https://www.rheo-chalmers.se/Highlights/2023-08-13)" 
 
 *13-08-2023*
+
+<br>
+
+**ESR5 Ema Svetlicic** published her first popular science article with title "Big Data and Host-Pathogen Interactions" 
+
+*19-09-2023*
