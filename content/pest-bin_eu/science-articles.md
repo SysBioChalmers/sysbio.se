@@ -44,4 +44,6 @@ image: null
 **ESR14 Hengzhi Ruan** published his first popular science article with title "New strategies for multifunctional antibacterial materials". Check the article here -> 
 [New strategies for multifunctional antibacterial materials | Chalmers](https://research.chalmers.se/en/publication/?created=true&id=0ce9a72d-e8c7-41c3-bfca-abbdde6d5a35)
 
-2*﻿3-03-2023*
+2﻿*3-03-2023*
+
+**ESR14 Hengzhi Ruan** published his second popular science article with title "[How the tiny polysaccharides prevent healthcare-associated infections?](https://www.rheo-chalmers.se/Highlights/2023-08-13)" Check the article[ here](https://www.rheo-chalmers.se/Highlights/2023-08-13)
