@@ -54,6 +54,6 @@ image: null
 
 <br>
 
-**ESR5 Ema Svetlicic** published her first popular science article with title "Big Data and Host-Pathogen Interactions" 
+**ESR5 Ema Svetlicic** published her first popular science article with title <a href="/img/popular_article_svetlicic_esr_5.pdf"rel="noopener noreferrer" target="_blank"> "Big Data and Host-Pathogen Interactions"</a>
 
 *19-09-2023*
