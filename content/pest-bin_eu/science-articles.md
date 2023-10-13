@@ -46,6 +46,6 @@ image: null
 
 2﻿*3-03-2023*
 
-**ESR14 Hengzhi Ruan** published his second popular science article with title "[How the tiny polysaccharides prevent healthcare-associated infections?](https://www.rheo-chalmers.se/Highlights/2023-08-13)" Check the article here ->  [How the tiny polysaccharides prevent healthcare-associated infections?](https://www.rheo-chalmers.se/Highlights/2023-08-13)
+**ESR14 Hengzhi Ruan** published his second popular science article with title "[How the tiny polysaccharides prevent healthcare-associated infections?](https://www.rheo-chalmers.se/Highlights/2023-08-13)" 
 
 *13-08-2023*
