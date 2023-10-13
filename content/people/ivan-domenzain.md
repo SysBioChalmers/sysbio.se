@@ -7,6 +7,7 @@ position: PostDoc
 email: ivand [at] chalmers.se
 flags:
   - mx Mexico
+  - se Sweden
 person-category: E Postdocs
 template: people/profile
 ---
