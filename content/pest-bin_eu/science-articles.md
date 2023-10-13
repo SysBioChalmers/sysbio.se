@@ -54,6 +54,18 @@ image: null
 
 <br>
 
+**ESR10 Sara Rodrigues Pita** published her first popular science article with title ["Sourcing the next generation of drug leads from the human microbiome" ](https://www.the-microbiologist.com/features/sourcing-the-next-generation-of-drug-leads-from-the-human-microbiome/1437.article)
+
+*21-08-2023*
+
+<br>
+
+**ESR10 Sara Rodrigues Pita** published her second popular science article with title ["Searching the genome of lactic acid bacteria for compounds relevant for human health" ](https://micro-bites.org/2023/08/23/searching-the-genomes-of-lactic-acid-bacteria-for-compounds-relevant-to-human-health/)
+
+*29-08-2023*
+
+<br>
+
 **ESR5 Ema Svetlicic** published her first popular science article with title <a href="/img/popular_article_svetlicic_esr_5.pdf"rel="noopener noreferrer" target="_blank"> "Big Data and Host-Pathogen Interactions"</a>
 
 *19-09-2023*
