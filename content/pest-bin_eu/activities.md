@@ -80,6 +80,13 @@ ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chal
 
 <br>
 
+ESR14 Hengzhi Ruan presented his work to researchers working in different fields as well as to people working in some Swedish government institutions and companies. The event took place at Chalmers University of Technology.
+
+![](../img/chalmers-talk.jpg)
+
+
+<br>
+
 ESR14 Hengzhi Ruan presented his work about antibacterial hydrogels on 33rd Annual Conference of the European Society for Biomaterials, which took place from September 4 to September 8, 2023 in Davos, Switzerland.
 
 ![](../img/davos.jpg)
