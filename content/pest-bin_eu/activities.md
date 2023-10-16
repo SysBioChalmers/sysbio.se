@@ -80,6 +80,12 @@ ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chal
 
 <br>
 
+ESR9 Payal Nashier presented her work at the CellMAP @TRR261 conference in May 2023.
+
+![](../img/conf-may-2023.jpg)
+
+<br>
+
 ESR4 Flavia Ferrara presented her work at the "Attilio Corbella" International Summer School on Organic Synthesis (ISOS ) 16-20 June 2024, Italy.
 
 ![](../img/poster.jpg)
