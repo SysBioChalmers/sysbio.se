@@ -86,6 +86,12 @@ ESR14 Hengzhi Ruan presented his work to researchers working in different fields
 
 <br>
 
+ESR9 Payal Nashier presented her work at the BSPR-EuPA 2023 conference in Newcastle from July 17th to 20th.
+
+![](../img/conference-newcastle.jpg)
+
+<br>
+
 ESR14 Hengzhi Ruan presented his work about antibacterial hydrogels on 33rd Annual Conference of the European Society for Biomaterials, which took place from September 4 to September 8, 2023 in Davos, Switzerland.
 
 ![](../img/davos.jpg)
