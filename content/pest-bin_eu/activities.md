@@ -80,6 +80,12 @@ ESR14 Hengzhi Ruan from the Rheology and Processing of Soft Matter group in Chal
 
 <br>
 
+ESR4 Flavia Ferrara presented her work at the "Attilio Corbella" International Summer School on Organic Synthesis (ISOS ) 16-20 June 2024, Italy.
+
+![](../img/poster.jpg)
+
+<br>
+
 ESR14 Hengzhi Ruan presented his work to researchers working in different fields as well as to people working in some Swedish government institutions and companies. The event took place at Chalmers University of Technology.
 
 ![](../img/chalmers-talk.jpg)
