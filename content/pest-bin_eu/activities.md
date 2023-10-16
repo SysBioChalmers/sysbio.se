@@ -84,12 +84,19 @@ ESR14 Hengzhi Ruan presented his work to researchers working in different fields
 
 ![](../img/chalmers-talk.jpg)
 
-
 <br>
 
 ESR14 Hengzhi Ruan presented his work about antibacterial hydrogels on 33rd Annual Conference of the European Society for Biomaterials, which took place from September 4 to September 8, 2023 in Davos, Switzerland.
 
 ![](../img/davos.jpg)
+
+<br>
+
+ESR10 Sara Pita presented her work at the EMBL Human microbiome conference on 20 - 23 Sep 2023 in EMBL Heidelberg, Germany.
+
+![](../img/germany-poster.jpeg)
+
+<br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
