@@ -35,7 +35,7 @@ We are analyzing the gut metagenome in different cohort studies and aim to ident
 
 #### Publications
 
-[Full list of publications](/img/pub_jn2201.pdf) (PDF)
+[Full list of publications](/img/pub_jn2310.pdf) (PDF)
 <br/>
 <br/>
 
