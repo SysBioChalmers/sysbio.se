@@ -16,7 +16,7 @@ Division of Systems and Synthetic Biology
 Kemivägen 10  
 SE-412 96 Göteborg  
 Sweden  
-Please include reference to a person at Systems and Synthetic Biology.  
+Please include reference to a person at Systems & Synthetic Biology.  
 
 #### Visiting address  
 Chalmers University of Technology  
