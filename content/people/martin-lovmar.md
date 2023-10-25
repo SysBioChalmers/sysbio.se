@@ -2,7 +2,7 @@
 name: Martin Lovmar
 title: Martin-Lovmar
 lastname: Lovmar
-picture: img/pic_martin-lovmar.jpg
+picture: /img/pic_martin-lovmar.jpg
 position: Adjunct Professor
 email: lovmarm [at] chalmers.se
 flags:
