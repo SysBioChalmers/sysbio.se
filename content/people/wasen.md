@@ -2,7 +2,7 @@
 name: Caroline Wasén, PhD
 title: Wasen
 lastname: Wasen
-picture: img/pic_caroline-wasen.jpg
+picture: /img/pic_caroline-wasen.jpg
 position: Researcher
 email: caroline.wasen [at] gu.se
 flags:
