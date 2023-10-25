@@ -2,7 +2,7 @@
 name: Xiaozhi Fu, PhD
 title: Xiaozhi-Fu
 lastname: Fu
-picture: img/pic_xiaozhi-fu.jpg
+picture: /img/pic_xiaozhi-fu.jpg
 position: Research Specialist
 email: xifu [at] chalmers.se
 flags:
