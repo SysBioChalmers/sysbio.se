@@ -2,7 +2,7 @@
 name: Golnaz Mobasseri, PhD
 title: Golnaz-Mobasseri
 lastname: Mobasseri
-picture: img/pic_golnaz-mobasseri.jpg
+picture: /img/pic_golnaz-mobasseri.jpg
 position: PostDoc
 email: golnazm [at] chalmers.se
 flags:
