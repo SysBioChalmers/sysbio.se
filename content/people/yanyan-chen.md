@@ -2,7 +2,7 @@
 name: Yanyan Chen, PhD
 title: Yanyan-Chen
 lastname: Chen
-picture: img/pic_yanyan-chen.jpg
+picture: /img/pic_yanyan-chen.jpg
 position: PostDoc
 email: yanyanc [at] chalmers.se
 flags:
