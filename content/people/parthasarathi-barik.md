@@ -2,7 +2,7 @@
 name: Parthasarathi Barik, PhD
 title: Parthasarathi-Barik
 lastname: Barik
-picture: img/pic_parthasarathi-barik.jpg
+picture: /img/pic_parthasarathi-barik.jpg
 position: PostDoc
 email: barikp [at] chalmers.se
 flags:
