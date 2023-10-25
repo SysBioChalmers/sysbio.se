@@ -2,7 +2,7 @@
 name: Xiang Li
 title: Xiang-Li
 lastname: Li
-picture: img/pic_xiang-li.jpg
+picture: /img/pic_xiang-li.jpg
 position: PostDoc
 email: xiang.li [at] chalmers.se
 flags:
