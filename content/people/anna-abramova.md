@@ -2,7 +2,7 @@
 name: Anna Abramova, PhD
 title: Anna-Abramova
 lastname: Abramova
-picture: img/pic_anna-abramova.jpg
+picture: /img/pic_anna-abramova.jpg
 position: Postdoc
 email: abramova [at] chalmers.se
 flags:
