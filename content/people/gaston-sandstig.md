@@ -2,7 +2,7 @@
 name: Gaston Sandstig
 title: Gaston-Sandstig
 lastname: Sandstig
-picture: img/pic_gaston-sandstig.jpg
+picture: /img/pic_gaston-sandstig.jpg
 position: MSc student
 email: sandstig [at] student.chalmers.se
 flags:
