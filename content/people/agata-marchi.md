@@ -2,7 +2,7 @@
 name: Agata Marchi
 title: Agata-Marchi
 lastname: Marchi
-picture: img/pic_agata-marchi.jpg
+picture: /img/pic_agata-marchi.jpg
 position: MSc student
 email: agatam [at] chalmers.se
 flags:
