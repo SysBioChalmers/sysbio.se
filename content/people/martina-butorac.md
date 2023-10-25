@@ -2,7 +2,7 @@
 name: Martina Butorac
 title: martina-butorac
 lastname: butorac
-picture: img/pic_martina-butorac.jpg
+picture: /img/pic_martina-butorac.jpg
 position: PA/Webmaster
 email: "martina.butorac [at] chalmers.se "
 flags:
