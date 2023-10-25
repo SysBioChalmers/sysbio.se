@@ -2,7 +2,7 @@
 name: Danish Anwer
 title: Danish-Anwer
 lastname: Anwer
-picture: img/pic_danish-anwer.jpg
+picture: /img/pic_danish-anwer.jpg
 position: Project assistant
 email: anwer [at] chalmers.se
 flags:
