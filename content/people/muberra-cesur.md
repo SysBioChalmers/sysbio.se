@@ -2,7 +2,7 @@
 name: Müberra Fatma Cesur
 title: Muberra-Cesur
 lastname: Cesur
-picture: img/pic_muberra-fatma-cesur.jpg
+picture: /img/pic_muberra-fatma-cesur.jpg
 position: PhD student
 email: muberra [at] chalmers.se
 flags:
