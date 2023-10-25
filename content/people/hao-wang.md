@@ -2,7 +2,7 @@
 name: Hao Wang, PhD
 title: Hao-Wang
 lastname: Wang
-picture: img/pic_hao-wang.jpg
+picture: /img/pic_hao-wang.jpg
 position: Researcher
 email: hao.wang [at] chalmers.se
 flags: []
