@@ -2,7 +2,7 @@
 name: Iván Domenzain
 title: Ivan-Domenzain
 lastname: Domenzain
-picture: img/pic_ivan-domenzain.jpg
+picture: /img/pic_ivan-domenzain.jpg
 position: PostDoc
 email: ivand [at] chalmers.se
 flags:
