@@ -2,7 +2,7 @@
 name: Andreas Gällblad
 title: Andreas-Gallblad
 lastname: Gallblad
-picture: img/pic_andreas-gallblad.jpg
+picture: /img/pic_andreas-gallblad.jpg
 position: MSc student
 email: gallblad [at] chalmers.se
 flags:
