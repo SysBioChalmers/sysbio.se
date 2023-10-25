@@ -2,7 +2,7 @@
 name: Srishti Chawla, PhD
 title: Srishti-Chawla
 lastname: Chawla
-picture: img/pic_srishti-chawla.jpg
+picture: /img/pic_srishti-chawla.jpg
 position: PostDoc
 email: srishti [at] chalmers.se
 flags:
