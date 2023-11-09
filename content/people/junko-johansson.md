@@ -2,7 +2,7 @@
 name: Junko Johansson, PhD
 title: Junko-Johansson
 lastname: Johansson
-picture: img/pic_junko-johansson.jpg
+picture: /img/pic_junko-johansson.jpg
 position: Research Specialist
 email: junko [at] chalmers.se
 flags:
