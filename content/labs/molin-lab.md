@@ -1,7 +1,7 @@
 ---
 title: Molin Lab
 name: molin-lab
-picture: img/lab_molin.jpg
+picture: /img/lab_molin.jpg
 card: "We look into the roles of oxidants on physiology, especially the roles of
   peroxiredoxin antioxidants on proteostasis, signaling and aging. Knowledge
   gained is used to benefit health and engineering. "
