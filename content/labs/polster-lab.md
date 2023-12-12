@@ -1,7 +1,7 @@
 ---
 title: Polster Lab
 name: Polster
-picture: img/lab_polster.jpg
+picture: /img/lab_polster.jpg
 card: Our research aims to explore endotypes in complex diseases to advance
   personalized and predictive medicine. We use computational methods to model
   human pathophysiology using clinical and molecular data.
