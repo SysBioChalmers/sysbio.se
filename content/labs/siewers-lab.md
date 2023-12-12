@@ -1,7 +1,7 @@
 ---
 title: Siewers Lab
 name: Siewers
-picture: img/lab-siewers.jpg
+picture: /img/lab-siewers.jpg
 card: We develop and apply synthetic biology tools to generate yeast cell
   factories for the sustainable production of proteins and chemicals as well as
   to create whole-cell biosensors.
