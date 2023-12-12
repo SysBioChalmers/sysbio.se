@@ -1,7 +1,7 @@
 ---
 title: Faresjö lab
 name: Faresjo
-picture: img/lab-faresjo.jpg
+picture: /img/lab-faresjo.jpg
 card: We are focusing on immunological mechanisms and tools for prevention,
   diagnosis and treatment of autoimmune diseases especially in children with
   type 1 diabetes and/or celiac disease.
