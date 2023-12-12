@@ -1,7 +1,7 @@
 ---
 title: Kerkhoven Lab
 name: kerkhoven
-picture: img/lab-kerkhoven.jpg
+picture: /img/lab-kerkhoven.jpg
 card: Through model-driven analysis of experimental data we aim to understand,
   predict and engineer biology, among others in baker's and oleaginous yeasts
   and antibiotic producing bacteria.
