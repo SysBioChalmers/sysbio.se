@@ -1,5 +1,5 @@
 ---
-name: Xiang Li
+name: Xiang Li, PhD
 title: Xiang-Li
 lastname: Li
 picture: /img/pic_xiang-li.jpg
