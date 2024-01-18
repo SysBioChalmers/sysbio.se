@@ -5,7 +5,7 @@ weight: 55
 template: pest-bin_eu/single
 image: null
 ---
-**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
+<https://papiermachesciences.org/2023/09/25/sos-antibiotiques-en-detresse/?v=C>**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
 
 *21-07-2022*
 
@@ -69,3 +69,9 @@ image: null
 **ESR5 Ema Svetlicic** published her first popular science article with title <a href="/img/popular_article_svetlicic_esr_5.pdf"rel="noopener noreferrer" target="_blank"> "Big Data and Host-Pathogen Interactions"</a>
 
 *19-09-2023*
+
+<br>
+
+**ESR8 Margaux Demuysere** published her first popular science article with title Antibiotics in distress. 
+
+*10-05-2023*
