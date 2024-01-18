@@ -25,7 +25,7 @@ The 2nd PEST-BIN Summer school was held at the premises at Chalmers University o
 
 *3. Summer School at UIB, Spain*
 
-![](img/pest-bin-dinner.jpg)
+![](../img/pest-bin-dinner.jpg)
 
 The 3rd PEST-BIN Summer school was held at the premises at the University of the Balearic Islands, Palma, Spain from 23-27th October 2023. The summer school started with project presentations from each ESR and after that the ESRs had a full one week with interesting scientific lectures from both industry and academia speakers, letcture on Life cycle assessment as well as career planing and managing a researcg team. 
 
