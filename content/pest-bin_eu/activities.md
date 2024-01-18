@@ -23,6 +23,12 @@ The 1st PEST-BIN Summer school was held at the premises at DTU in Lyngby, Denmar
 
 The 2nd PEST-BIN Summer school was held at the premises at Chalmers University of Technology in Gothenburg, Sweden from 19-23rd September 2022. The ESRs had a full one week with interesting scientific lectures from both industry and academia speakers, workshop on how to write a SoMe post and how to communicate their research to the media as well as EU research regulation lecture from the Ministry of Higher Education in Denmark. The summer school ended with project presentations from each ESR.
 
+*3. Summer School at UIB, Spain*
+
+![](img/pest-bin-dinner.jpg)
+
+The 3rd PEST-BIN Summer school was held at the premises at the University of the Balearic Islands, Palma, Spain from 23-27th October 2023. The summer school started with project presentations from each ESR and after that the ESRs had a full one week with interesting scientific lectures from both industry and academia speakers, letcture on Life cycle assessment as well as career planing and managing a researcg team. 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 <br>
