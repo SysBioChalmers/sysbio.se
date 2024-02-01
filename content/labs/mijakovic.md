@@ -53,16 +53,12 @@ Dina Petranovic, Guest Professor\
 Martin Lovmar, Adjunct Professor\
 Lei Shi, Researcher\
 Santosh Pandit, Researcher\
-Xin Chen, Researcher\
 Shadi Rahimi, Researcher\
-Yanyan Chen, Post-doc\
-Caroline Wasén, Post-doc\
 Jian Zhang, Post-doc\
 Mutusankar Eswaran, Post-doc\
 Zhejian Cao, Post-doc\
-Julie Couillaud, Post-doc\
-Paula Martínez Pérez, Post-doc\
 Golnaz Mobasseri, Post-doc\
+Mostafa Salirozveh, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
 Mohsen Bahmani, MSc student
@@ -81,7 +77,7 @@ Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
 Saranya Nallapareddy, PhD student\
 Peter Gockel, PhD student\
-Pragati Rajendra More, visiting PhD student\
+Claudia Capella, visiting PhD student\
 Ivana Saraga, MSc student\
 Darko Kjiproski, Project manager 
 
@@ -96,6 +92,9 @@ Sandrine Poncet\
 Yves Pagot\
 Tao Chen  
 
+***Researchers:***\
+Xin Chen
+
 ***Postdoctoral fellows:***\
 Fen Yang\
 Valentina Cantatore\
@@ -109,7 +108,11 @@ Abhroop Garg\
 Vaishnavi Ravikumar\
 Mohsen Zareian\
 Avlant Nilsson\
-Julie Bonne Køhler
+Julie Bonne Køhler\
+Yanyan Chen\
+Caroline Wasén\
+Julie Couillaud\
+Paula Martínez Pérez
 
 ***PhD students:***\
 Mette Erichsen Hansen\
@@ -126,7 +129,8 @@ Pedro Aragón Fernández
 Alireza Neissi\
 Hossein Helalat\
 Samira Ebrahimi\
-Amani Belaiba
+Amani Belaiba\
+Pragati Rajendra More
 
 ***Technicians:***\
 Violeta Djekic\
