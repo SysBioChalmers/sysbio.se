@@ -55,13 +55,13 @@ Lei Shi, Researcher\
 Santosh Pandit, Researcher\
 Shadi Rahimi, Researcher\
 Jian Zhang, Post-doc\
-Mutusankar Eswaran, Post-doc\
 Zhejian Cao, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Mostafa Salirozveh, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
-Mohsen Bahmani, MSc student
+Mohsen Bahmani, MSc student\
+Jose Manuel Outomuro, MSc student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
