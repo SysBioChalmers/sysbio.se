@@ -140,20 +140,20 @@ paginate = 10
   link_text = "Explore"
 
 [params.centres]
-  enable = true
+  enable = false
   # All centres are defined in their own files. You can find example items at 'data/centres'.
   title = "Centers of Excellence"
   subtitle = "Systems and Synthetic Biology is part of four large center structures that operate with satellite facilities at Chalmers."
 
 [params.recent_news]
-  enable = true
+  enable = false
   title = "Recent news"
   subtitle = ""
 
 [params.organization]
   enable = true
   title = "Organization"
-  text = "**[Systems and Synthetic Biology](/people)** is headed by Professor Ivan Mijakovic and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young researchers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the [Department of Biology and Biological Engineering at Chalmers University of Technology](http://www.chalmers.se/en/departments/bio/)."
+  text = "**[Systems and Synthetic Biology](/people)** is headed by Professor Ivan Mijakovic and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young researchers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the [Department of Life Sciences at Chalmers University of Technology](http://www.chalmers.se/en/departments/life/)."
   image = "img/organization.jpg"
   overview = "img/overview.jpg"
 
