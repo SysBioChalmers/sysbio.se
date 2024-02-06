@@ -3,11 +3,6 @@ title: Software
 template: tools/software
 ---
 
-<a href="http://biomet-toolbox.chalmers.se/">
-  <img class="project-logo" src="/img/logo_biomet.png" />
-  <h4>BioMet ToolBox 2</h4>
-</a><br/><br/><br/><br/>
-
 <a href="https://github.com/SysBioChalmers/RAVEN">
   <img class="project-logo" src="/img/logo_raven.png" />
   <h4>Raven Toolbox</h4>
