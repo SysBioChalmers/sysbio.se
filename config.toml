@@ -132,7 +132,7 @@ paginate = 10
   subtitle = ""
 
 [params.see_more]
-  enable = true
+  enable = false
   icon = "fa fa-flask"
   title = "International projects"
   subtitle = "Check out some of our latest and most exciting international projects"
