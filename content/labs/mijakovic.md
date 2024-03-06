@@ -15,7 +15,7 @@ profileleftbox: |-
 ---
 [CV](/img/cv_im2401.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2401.pdf) <br/><br/>
 
-![Ivan Mijakovic](img/pic_ivan_mijakovic-lab.png)
+![Ivan Mijakovic](/img/pic_ivan_mijakovic-lab.png)
 
 ### The Mijakovic lab – who are we and what do we do?
 
