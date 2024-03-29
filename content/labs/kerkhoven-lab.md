@@ -13,6 +13,7 @@ profileleftbox: |-
   Phone: -  
   E-mail: eduardk [at] chalmers.se  
   Office: Room 3054A (Fysik Origo, Kemigården 1)
+
   [Publications](/img/pub_ejk2403.pdf)
 ---
 
