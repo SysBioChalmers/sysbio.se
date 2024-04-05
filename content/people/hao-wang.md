@@ -3,9 +3,9 @@ name: Hao Wang, PhD
 title: Hao-Wang
 lastname: Wang
 picture: /img/pic_hao-wang.jpg
-position: Researcher
+position: Research Scientist, Chrysea
 email: hao.wang [at] chalmers.se
 flags: []
-person-category: H Visiting researchers
+person-category: I Guests
 template: people/profile
 ---
