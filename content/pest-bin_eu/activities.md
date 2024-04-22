@@ -227,7 +227,13 @@ ESR9 and ESR15 participated in an outreach activity where they had a stand in Sc
 
 ![](../img/payal-and-thomas.jfif)
 
+<br>
 
+ESR8 hosted an open day at the Institute of Biology and Chemistry of Proteins during "La Fête de la Science", a national event that promotes dialogue between scientists and citizens. They organized a microbiology workshop with an introduction to microscopy and bacterial growth curves, as well as a showcase of all sorts of bacteria grown on different types of media in presence and absence of antibiotics. Around 30 students attenden the event. 
+
+![](../img/flyer-fds.png)
+
+![](../img/workshop_cell-culture.jpg)
 
 <br>
 
