@@ -237,4 +237,4 @@ ESR1 Leonarda Acha Alarcon received the Elisabeth Bollan Lindén-stipend 2022 (1
 
 **Teaching Materials** 
 
-ESR12 Anja Tušar prepared teaching materials for high school students and is developed around popular experiment with yeasts in plastic bottle with ballons on top. Have a look.
+ESR12 Anja Tušar prepared teaching materials for high school students and is developed around popular experiment with yeasts in plastic bottle with ballons on top. <a href="static/img/teachingmaterial_anja_v2.pdf"rel="noopener noreferrer" target="_blank"> Have a look"</a>.
