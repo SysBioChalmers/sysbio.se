@@ -229,3 +229,12 @@ ESR9 Payal Nashier recently had the opportunity to take part in Kinder-Uni-Forsc
 ESR1 Leonarda Acha Alarcon received the Elisabeth Bollan Lindén-stipend 2022 (1 out of 4 awards) for doing quantitative #proteomics 📊 of Streptococcus pneumoniae 🦠 at the Proteomics Core Facilities of University of Gothenburg.  The topic was Virulence of Streptococcus pneumoniae - Comparison of differential protein expression levels of invasive vs non-invasive strains using quantitative proteomics.
 
 ![](../img/bollan-leo.jpg)
+
+<br>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+<br>
+
+**Teaching Materials** 
+
+ESR12 Anja Tušar prepared teaching materials for high school students and is developed around popular experiment with yeasts in plastic bottle with ballons on top. Have a look.
