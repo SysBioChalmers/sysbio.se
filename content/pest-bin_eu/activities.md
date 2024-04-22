@@ -122,6 +122,12 @@ ESR10 Sara Pita presented her work at the EMBL Human microbiome conference on 20
 
 <br>
 
+ESR14 Hengzhi Ruan presented his work on the conference  'Materials for Tomorrow 2023' in Chalmers University of Technology on November 8th - 10th. He attended both poster session and Rapid fire session. 
+
+![](../img/img_2374.jpeg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
