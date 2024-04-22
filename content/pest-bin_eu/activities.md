@@ -221,6 +221,16 @@ ESR9 Payal Nashier recently had the opportunity to take part in Kinder-Uni-Forsc
 
 <br>
 
+ESR9 and ESR15 participated in an outreach activity where they had a stand in Science and Innovation days 2023 at University of Tübingen. They presented a poster with all the projects of Pest-Bin project. 
+
+![](../img/payal-and-thomas-nr-2.jfif)
+
+![](../img/payal-and-thomas.jfif)
+
+
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 <br>
 
