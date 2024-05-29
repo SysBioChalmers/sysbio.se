@@ -75,3 +75,7 @@ image: null
 **ESR8 Margaux Demuysere** published her first popular science article with title [Antibiotics in distress](https://papiermachesciences.org/2023/09/25/sos-antibiotiques-en-detresse/?v=C). 
 
 *10-05-2023*
+
+<br>
+
+**ESR12 Anja Tušar** has published her third article. 
