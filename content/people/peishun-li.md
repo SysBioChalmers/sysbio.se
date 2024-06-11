@@ -2,7 +2,7 @@
 name: Peishun Li, PhD
 title: peishun-li
 lastname: Li
-picture: img/pic_Peishun-Li.jpg
+picture: /img/pic_Peishun-Li.jpg
 position: Researcher
 email: peishun [at] chalmers.se
 flags:
