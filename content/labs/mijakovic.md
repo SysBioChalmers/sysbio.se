@@ -58,10 +58,9 @@ Jian Zhang, Post-doc\
 Zhejian Cao, Post-doc\
 Golnaz Mobasseri, Post-doc\
 Mostafa Salirozveh, Post-doc\
+Olena Tkachova, Post-doc\
 Hengzi Ruan, PhD student\
-Leonarda Acha Alarcon, PhD student\
-Mohsen Bahmani, MSc student\
-Jose Manuel Outomuro, MSc student
+Leonarda Acha Alarcon, PhD student
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -78,7 +77,6 @@ Anargyros Alexiou, PhD student\
 Saranya Nallapareddy, PhD student\
 Peter Gockel, PhD student\
 Claudia Capella, visiting PhD student\
-Ivana Saraga, MSc student\
 Darko Kjiproski, Project manager 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
@@ -161,4 +159,6 @@ Mugdha Bapat\
 Iza Erzar\
 Nisha Neupane\
 Victor Lanai\
-Nihal Kottan
+Nihal Kottan\
+Jose Manuel Outomuro\
+Ivana Saraga
