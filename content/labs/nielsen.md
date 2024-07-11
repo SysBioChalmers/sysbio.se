@@ -17,21 +17,15 @@ profileleftbox: |-
 
 <br/>
 
-Over the years we have used the yeast *Saccharomyces cerevisiae* as both a model organism and as a cell factory, but the group do not have any active research on yeast anymore. Current focus is on systems biology of human metabolism, including the human gut microbiome.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
+Our research focused on systems biology of metabolism. Over the years we have used the yeast *Saccharomyces cerevisiae* as both a model organism and as a cell factory, but the group do not have any active research on yeast anymore. In recent years focus has been on systems biology of human metabolism, including the human gut microbiome.  [Interview about some of our work](https://www.youtube.com/watch?v=KkPeGhbh5F0)
 
-Several of our research activities are part of the Novo Nordisk Foundation Center for Biosustainability. See [www.biosustain.dtu.dk](http://www.biosustain.dtu.dk/english) and [video ](https://www.youtube.com/watch?v=8-R3HCHQI9I&feature=player_embedded)for more information
+All research activities are now carried out in collaboration with former students and post docs of the group.
 <br/>
 <br/>
 
 #### Research Projects
 
-**Human Metabolic Atlas**\
-We are building genome-scale metabolic models for different human cell types and using these models for identification of novel prognostic biomarkers for human diseases like type 2 diabetes, cardiovascular disease and cancer (see [www.metabolicatlas.com](http://www.metabolicatlas.com/)).
-
-**Gut Metagenomics**\
-We are analyzing the gut metagenome in different cohort studies and aim to identify biomarkers and novel treatment strategies for human diseases. Much of our work in this field is in close collaboration with Prof. Fredrik Båckhed at Sahlgrenska Academy, Gothenburg University.
-<br/>
-<br/>
+**There are no current research projects**\
 
 #### Publications
 
@@ -445,7 +439,7 @@ Feiran Li:\
 **Graduated PhD Students (examiner)**
 
 1. Joachim Almquist, FCC, Sweden (2010-2017)
-2.	Yasaman Dabirian, Chalmers (2016-2021)
+2. Yasaman Dabirian, Chalmers (2016-2021)
 
 **Graduated PhD Students (co-supervisor)**
 
