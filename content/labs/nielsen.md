@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: nielsenj \[at] chalmers.se\
   Office: Room 2060B (Fysik Origo, Kemigården 1)
 ---
-[Research Projects](#) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
+[CV](/people/jens-nielsen/) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#publications) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Videos](#videos) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Theses](#theses) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; [Alumni](#alumni) 
 
 <br/>
 
@@ -23,9 +23,7 @@ All research activities are now carried out in collaboration with former student
 <br/>
 <br/>
 
-#### Research Projects
-
-**There are no current research projects**\
+**There are no current research projects**
 
 #### Publications
 
