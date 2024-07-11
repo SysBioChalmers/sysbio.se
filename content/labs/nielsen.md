@@ -22,9 +22,9 @@ Our research focused on systems biology of metabolism. Over the years we have us
 All research activities are now carried out in collaboration with former students and post docs of the group.
 <br/>
 <br/>
-
 **There are no current research projects**
-
+<br/>
+<br/>
 #### Publications
 
 [Full list of publications](/img/pub_jn2403.pdf) (PDF)
