@@ -3,7 +3,7 @@ name: Iván Domenzain
 title: Ivan-Domenzain
 lastname: Domenzain
 picture: /img/pic_ivan-domenzain.jpg
-position: Visiting researcher
+position: Researcher
 email: ivand [at] chalmers.se
 flags:
   - mx Mexico
