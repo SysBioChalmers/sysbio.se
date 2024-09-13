@@ -2,7 +2,7 @@
 name: Alexandr Diaciuc
 title: alexandr-diaciuc
 lastname: Diaciuc
-picture: /img/pic_alexandr-diaciuc.jpg
+picture: /img/pic_Alexandr-Diaciuc.jpg
 position: PhD student
 email: diaciuc [at] chalmers.se
 flags:
