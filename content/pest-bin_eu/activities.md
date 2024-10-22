@@ -237,6 +237,12 @@ ESR8 hosted an open day at the Institute of Biology and Chemistry of Proteins du
 
 <br>
 
+E﻿SR3 Flavia Ferrara hosted an open day for many students at Chalmers University of Technology. The students found the event quite interesting as it was very helpful and relatable to their field of study (chemistry and chemical engineering). 
+
+![](../img/picture-from-open-doors.png)
+
+<br>
+
 E﻿SR3 Flavia Ferrara gave a talk at seminar series called "Small Talks" at the Chalmers University of Technology which was open to university students. The event took place in May, 2024. 
 
 ![](../img/small-talks.jpg)
