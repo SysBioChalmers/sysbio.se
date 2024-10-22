@@ -237,6 +237,12 @@ ESR8 hosted an open day at the Institute of Biology and Chemistry of Proteins du
 
 <br>
 
+E﻿SR3 Flavia Ferrara gave a talk at seminar series called "Small Talks" at the Chalmers University of Technology which was open to university students. The event took place in May, 2024. 
+
+![](../img/small-talks.jpg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 <br>
 
