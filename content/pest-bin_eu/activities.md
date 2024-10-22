@@ -136,6 +136,12 @@ ESR6 Sara Ribeiro participated in three congresses with two posters, one in Immu
 
 <br>
 
+ESR15 Thomas Vernay gave in total three talks at the University of Milano in Feb 2022, Nov 2023 and in May 2024. The last one was part of the biotech course roundtables with \~30 bachelor students, \~5 external/non-students where he gave a presentation about antibiotic resistance and the need for new antibiotics. Moreover, he organized with some colleagues at his university a PhD science dissemination congress for the 25th anniversary of the University on November 30th 2023. He presented a 15 min talk showing the interest of looking into nature, especially environmental bacteria, to find new interesting molecules among which the most required antibiotics.  
+
+![](../img/bicocca_bcc48942.jpg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
