@@ -86,4 +86,6 @@ image: null
 
 **ESR3 Flavia Ferrara** has published her article. <a href="/img/essay-sustainable-development-1-.pdf"rel="noopener noreferrer" target="_blank"> "Ethical aspects of her research"</a> 
 
+*25-05-2024*
+
 <br>
