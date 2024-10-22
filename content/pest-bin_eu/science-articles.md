@@ -84,6 +84,6 @@ image: null
 
 <br>
 
-**ESR3 Flavia Ferrara** has published her article talking about the ethical aspects of her research <a href="/img/urinary-tract-infections_atusaresr12-nr3.pdf"rel="noopener noreferrer" target="_blank"> "Urinary tract and it's unwanted invaders"</a>
+**ESR3 Flavia Ferrara** has published her article talking about the ethical aspects of her research <a href="static/img/essay-sustainable-development-1-.pdf"rel="noopener noreferrer" target="_blank"> </a>
 
 *17-05-2024*
