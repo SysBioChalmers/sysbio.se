@@ -5,7 +5,7 @@ weight: 55
 template: pest-bin_eu/single
 image: null
 ---
-<https://papiermachesciences.org/2023/09/25/sos-antibiotiques-en-detresse/?v=C>**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
+**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
 
 *21-07-2022*
 
