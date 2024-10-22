@@ -81,3 +81,9 @@ image: null
 **ESR12 Anja Tušar** has published her third article with a title <a href="/img/urinary-tract-infections_atusaresr12-nr3.pdf"rel="noopener noreferrer" target="_blank"> "Urinary tract and it's unwanted invaders"</a>
 
 *17-05-2024*
+
+<br>
+
+**ESR3 Flavia Ferrara** has published her article talking about the ethical aspects of her research <a href="/img/urinary-tract-infections_atusaresr12-nr3.pdf"rel="noopener noreferrer" target="_blank"> "Urinary tract and it's unwanted invaders"</a>
+
+*17-05-2024*
