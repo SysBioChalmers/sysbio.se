@@ -128,6 +128,14 @@ ESR14 Hengzhi Ruan presented his work on the conference  'Materials for Tomorrow
 
 <br>
 
+ESR6 Sara Ribeiro participated in three congresses with two posters, one in Immunotherapies and innovations for infectious diseases congress ("I4ID") the 22 and 23 November 2023 in Lyon; and one for the Scientifically day of her doctoral school EDISS. The third one was the recent BPTM 2024 hosed in Rouen, France.  
+
+![](../img/ediss_day.jpg)
+
+![](../img/i4id_2023.jpg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
