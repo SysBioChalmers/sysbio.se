@@ -142,6 +142,16 @@ ESR15 Thomas Vernay gave in total three talks at the University of Milano in Feb
 
 <br>
 
+ESR11 Jose Maria Serpa Laço recently participated at two conferences. The first one was the International Biennial Pseudomonas Conference, held in Copenhagen from 1-5 September 2024 and where he presented a poster entitled: "Improved Identification of Pseudomonas putida Group Species and Detection of Antibiotic Resistance Genes Using Proteotyping". The second one was XX Taxon, held in Salamanca, Spain from 26-28 September 2024 and where he made an Oral Presentation entitled: "Unveiling the Hidden Diversity of the Stenotrophomonas Genus Through Phylogenomic Analysis", for which he also won the best Oral Presentation award. 
+
+![](../img/27092024-img_8597.jpg)
+
+![](../img/img_6329.jpg)
+
+![](../img/img-20240902-wa0003.jpg)
+
+<br>
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 
