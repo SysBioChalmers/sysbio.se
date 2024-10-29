@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2407.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2407.pdf) <br/><br/>
+[CV](/img/cv_im2410.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2410.pdf) <br/><br/>
 
 ![Ivan Mijakovic](/img/pic_ivan_mijakovic-lab.png)
 
