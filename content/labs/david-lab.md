@@ -6,7 +6,7 @@ card: Our research focus is on developing microbial drug discovery and
   production platforms.
 template: labs/single
 profileleftbox: |-
-  Assistant Professor  
+  Associate Professor  
   **Florian David**
 
   Phone: +46 (0)31 772 38 83    
