@@ -512,6 +512,7 @@ Feiran Li:\
 30.	Zeinab Hefny, Katholiek University of Leuven, Belgium (2017-2019)
 
 **Other affiliated researchers and staff**
+
 1.	Tina Johansen, Research Engineer, DTU (1990-2008)
 2.	Lene Christiansen, Research Engineer, DTU (1992-2008)
 3.	Martin Hjortso, Visiting Professor, DTU (1992-1993, 2002-2003)
@@ -560,4 +561,4 @@ Feiran Li:\
 46.	Mihail Anton, Chalmers (2017-2020)
 47.	Felipe Lopez-Isunza, Visiting Professor, Chalmers (2019)
 
-
+    
