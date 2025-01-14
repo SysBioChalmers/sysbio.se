@@ -335,7 +335,12 @@ Feiran Li:\
 105.	Boyang Ji, Chalmers (2013-2020)
 106.	Yiming Zhang, BUCT (2016-2021)
 107.	Rosemary Yu, Chalmers (2017-2021)
-108.	Hao Wang, Chalmers (2017-2021)
+108.	Hao Wang, Chalmers (2017-2024)
+109.	Sinisa Bratulic, Chalmers (2018-2021)
+110.	Yu Chen, Chalmers (2018-2022)
+111.	Rasool Saghaleyni, Chalmers (2021-2023)
+112.	Feiran Li, Chalmers (2021-2023)
+113.	Peishun Li, Chalmers (2022-2024)
 
 **Graduated PhD Students (main supervisor)**
 
@@ -433,11 +438,23 @@ Feiran Li:\
 92.	Qi Qi, Chalmers (2017-2021)
 93.	Feiran Li, Chalmers (2017-2021)
 94.	Yijin Zhao, BUCT (2017-2021)
+95.	Peishun Li, Chalmers (2018-2022)
+96.	Johan Gustafsson, Chalmers (2017-2022)
+97.	Hao Lou, Chalmers (2018-2022)
+98.	Dimitra Lappa, Chalmers (2016-2023)
+99.	Lingyun Li, BUCT (2018-2023)
+100.	Ivan Domenzain Del Castillo Cerecer, Chalmers (2017-2023)
+101.	Gheorghe Manuel Borja Zamfir, DTU (2013-2024)
 
 **Graduated PhD Students (examiner)**
 
 1. Joachim Almquist, FCC, Sweden (2010-2017)
 2. Yasaman Dabirian, Chalmers (2016-2021)
+3. Oliver Konzock, Chalmers (2018-2022)
+4. Christos Skrekas, Chalmers (2018-2022)
+5. Maximillian Otto, Chalmers (2018-2022)
+6. Dany Liu, Chalmers (2019-2023)
+7. Marta Tous Mohedano, Chalmers (2019-2023)
 
 **Graduated PhD Students (co-supervisor)**
 
@@ -542,4 +559,5 @@ Feiran Li:\
 45.	Virinchi Billa, Chalmers (2017-2019)
 46.	Mihail Anton, Chalmers (2017-2020)
 47.	Felipe Lopez-Isunza, Visiting Professor, Chalmers (2019)
+
 
