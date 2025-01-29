@@ -27,7 +27,7 @@ All research activities are now carried out in collaboration with former student
 <br/>
 #### Publications
 
-[Full list of publications](/img/pub_jn2403.pdf) (PDF)
+[Full list of publications](/img/pub_jn2501.pdf) (PDF)
 <br/>
 <br/>
 
