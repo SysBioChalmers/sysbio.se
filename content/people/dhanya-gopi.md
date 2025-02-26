@@ -2,7 +2,7 @@
 name: Dhanya Gopi
 title: Dhanya-Gopi
 lastname: Gopi
-picture: img/pic_Dhanya-Gopi.jpg
+picture: /img/pic_Dhanya-Gopi.jpg
 position: Intern
 email: dhanya [at] chalmers.se
 flags:
