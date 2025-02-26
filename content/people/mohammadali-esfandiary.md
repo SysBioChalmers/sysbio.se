@@ -2,7 +2,7 @@
 name: Mohammadali Esfandiary
 title: Mohammadali-Esfandiary
 lastname: Esfandiary
-picture: img/pic_Mohammadali-Esfandiary.jpg
+picture: /img/pic_Mohammadali-Esfandiary.jpg
 position: Intern
 email: mohesfa [at] chalmers.se
 flags:
