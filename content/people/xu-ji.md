@@ -2,7 +2,7 @@
 name: Xu Ji
 title: Xu-Ji
 lastname: Ji
-picture: img/pic_xu-ji.jpg
+picture: /img/pic_xu-ji.jpg
 position: PhD student
 email: jixu [at] chalmers.se
 flags:
