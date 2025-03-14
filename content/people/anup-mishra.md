@@ -2,7 +2,7 @@
 name: Anup Mishra
 title: Anup-Mishra
 lastname: Mishra
-picture: img/pic_anup-mishra.jpg
+picture: /img/pic_anup-mishra.jpg
 position: Intern
 email: anupm [at] chalmers.se
 flags:
