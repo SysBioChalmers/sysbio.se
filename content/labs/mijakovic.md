@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV](/img/cv_im2410.pdf) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/img/pub_im2410.pdf) <br/><br/>
+[CV & Publications](/img/cv_im2505.pdf) [PDF] <br/><br/>
 
 ![Ivan Mijakovic](/img/pic_ivan_mijakovic-lab.png)
 
@@ -21,7 +21,7 @@ profileleftbox: |-
 
 The work in our lab is driven by scientific curiosity: we seek to understand and describe how biology works. We sometimes also modify and engineer biological systems for various purposes useful to the society.
 
-There are currently about 30 team members in the Mijakovic lab, working at two sites: Chalmers (Sweden) and DTU (Denmark), and they come from very diverse scientific and cultural backgrounds. Our lab started out as a microbiology group, but as our ambitions and curiosity grew, we expanded into several other areas of life science, often using interdisciplinary approaches. Today, in addition to general bacteriology, we work with applications of various nanomaterials in biomedicine and biotechnology, metabolic engineering of microbial cell factories and experimental evolution.  
+The Mijakovic lab is active at two sites: Chalmers (Sweden) and DTU (Denmark). Our lab started out as a microbiology group, but as our ambitions and curiosity grew, we expanded into several other areas of life science, often using interdisciplinary approaches. Today, in addition to general bacteriology, we work with applications of various nanomaterials in biomedicine and biotechnology, metabolic engineering of microbial cell factories and experimental evolution.  
 
 The spirit in which we work together as a team is that of scientific freedom. With that freedom come many responsibilities: to strive for scientific excellence, to guarantee the quality and reproducibility of our results, to always be aware of ethical dimensions of our research and to ensure support for our research, which is financed with external funding from national public research councils and private foundations. 
 
@@ -46,6 +46,8 @@ Please note that our group does not admit internships/student projects shorter t
 
 Please note that our group cannot accommodate such requests. All our PhD positions are always advertised at the university vacancies website. If you see a position that suits you, please apply via the official channels. If you don’t see any positions, that means we have none currently.
 
+UPCOMING POSITIONS: In late 2025, the Mijakovic lab will advertise four PhD positions in the new EU MSCA ITN project “BUG-ID”. Job adverts will be posted at the DTU vacancies website.
+
 ![Mijakovic Lab](/img/pic_IM-group_photo24_720.jpg "Lab outing 2024")
 
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
@@ -61,7 +63,10 @@ Mostafa Salirozveh, Post-doc\
 Olena Tkachova, Post-doc\
 Hengzi Ruan, PhD student\
 Leonarda Acha Alarcon, PhD student\
-Narges Goli, MSc student
+Narges Goli, MSc student\
+Kristian Nakic, guest PhD student\
+Asma Gholami, visiting postdoc
+
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -69,13 +74,11 @@ Priyanka Singh, Post-doc\
 Abhayraj Joshi, Post-doc\
 Colleen Manyumwa, Post-doc\
 Suvasini Balasubramanian, PhD student\
-Mukil Madhusudanan, PhD student\
 Belay Tilahun Tadesse, PhD student\
 Mohammed Ghalib, PhD student\
 Anargyros Alexiou, PhD student\
 Saranya Nallapareddy, PhD student\
 Peter Gockel, PhD student\
-Renata Biba, guest postdoc\
 Darko Kjiproski, Project manager 
 
 [Mijakovic lab at DTU Biosustain ](http://www.biosustain.dtu.dk/english/research/research-groups/bacterial-signal-transduction)
@@ -122,7 +125,9 @@ Charlotte Cousin\
 Aida Kalantari\
 Pedro Aragón Fernández\
 Chenxhi Zhang\
+Mukil Madhusudanan\
 Ema Svetlicic
+
 
 ***Visiting PhD students:***\
 Alireza Neissi\
@@ -131,6 +136,10 @@ Samira Ebrahimi\
 Amani Belaiba\
 Pragati Rajendra More\
 Claudia Capella
+
+
+***Visiting Postdoc:***\
+Renata Biba
 
 ***Technicians:***\
 Violeta Djekic\
