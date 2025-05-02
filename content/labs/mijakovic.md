@@ -71,7 +71,6 @@ Asma Gholami, visiting postdoc
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
 Priyanka Singh, Post-doc\
-Abhayraj Joshi, Post-doc\
 Colleen Manyumwa, Post-doc\
 Suvasini Balasubramanian, PhD student\
 Belay Tilahun Tadesse, PhD student\
