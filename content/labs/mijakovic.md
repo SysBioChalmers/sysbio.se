@@ -13,7 +13,7 @@ profileleftbox: |-
   E-mail: Ivan.Mijakovic \[at] chalmers.se\
   Office: Room 3056A (Fysik Origo, Kemigården 1)
 ---
-[CV & Publications](/img/cv_im2505.pdf) [PDF] <br/><br/>
+[CV & Publications](/img/cv_im2505.pdf) \[PDF] <br/><br/>
 
 ![Ivan Mijakovic](/img/pic_ivan_mijakovic-lab.png)
 
@@ -51,7 +51,6 @@ UPCOMING POSITIONS: In late 2025, the Mijakovic lab will advertise four PhD posi
 ![Mijakovic Lab](/img/pic_IM-group_photo24_720.jpg "Lab outing 2024")
 
 **Current members of the Mijakovic Lab at Chalmers SysBio:**\
-Dina Petranovic, Guest Professor\
 Martin Lovmar, Adjunct Professor\
 Lei Shi, Researcher\
 Santosh Pandit, Researcher\
@@ -66,7 +65,6 @@ Leonarda Acha Alarcon, PhD student\
 Narges Goli, MSc student\
 Kristian Nakic, guest PhD student\
 Asma Gholami, visiting postdoc
-
 
 **Current Members of the Mijakovic lab at DTU Biosustain:**\
 Carsten Jers, senior researcher\
@@ -127,7 +125,6 @@ Chenxhi Zhang\
 Mukil Madhusudanan\
 Ema Svetlicic
 
-
 ***Visiting PhD students:***\
 Alireza Neissi\
 Hossein Helalat\
@@ -135,7 +132,6 @@ Samira Ebrahimi\
 Amani Belaiba\
 Pragati Rajendra More\
 Claudia Capella
-
 
 ***Visiting Postdoc:***\
 Renata Biba
