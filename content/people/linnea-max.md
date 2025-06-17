@@ -7,6 +7,6 @@ position: Project Assistant
 email: linmax [at] chalmers.se
 flags:
   - se Sweden
-person-category: K Project assistant
+person-category: J Research engineers - Wet lab
 template: people/profile
 ---
