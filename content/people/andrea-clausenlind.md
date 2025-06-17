@@ -3,10 +3,10 @@ name: Andrea Clausen Lind
 title: Andrea-ClausenLind
 lastname: ClausenLind
 picture: /img/pic_andrea-clausen-lind.jpg
-position: PhD student
+position: PostDoc
 email: lindandr [at] chalmers.se
 flags:
   - se Sweden
-person-category: F PhD students
+person-category: E Postdocs
 template: people/profile
 ---
