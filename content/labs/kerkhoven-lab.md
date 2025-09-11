@@ -29,8 +29,11 @@ Computational analysis of metabolism helps us to come up with strategies for met
 Besides computational research, we also investigate the oleaginous yeast *Y. lipolytica* as microbial cell factory, for instance to produce itaconic acid. This promising platform chemical can be used as monomer to e.g. aid bioleaching, or as a range of innovative polymers. We perform this through genetic engineering, integrative omics analysis, modeling of metabolism and fermentation optimization.
 
 **Current members:**  
+Ricardo Bisquert Alcaraz, Postdoc  
+Jeroen Gilis, Postdoc  
+Fabian Moreno Avitia, Postdoc  
 Cheewin Kittikunapong, PhD student  
-Simone Zaghen, PhD student  
+Hailey Chapman, MSc student  
 
 **Previous members:**  
 *Postdocs*  
@@ -41,6 +44,7 @@ Ievgeniia Tiukova (2018-2019)
 Hao Wang (2016-2018)  
 
 *PhD students*  
+Simone Zaghen (2020-2024)
 Le Yuan (2019-2023)  
 
 *Visiting researchers*  
