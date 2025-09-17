@@ -2,7 +2,7 @@
 name: Emelie Lindquist Holmberg
 title: Emelie-Lindquist
 lastname: Lindquist
-picture: /img/pic_emelie-lindquist.jpg
+picture: img/pic_emelie-lindquist_holmberg.jpg
 position: Senior Research Engineer
 email: " lindquis [at] chalmers.se"
 flags:
