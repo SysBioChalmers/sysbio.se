@@ -1,12 +1,12 @@
 ---
-name: Emil Burman
+name: Emil Burman, PhD
 title: Emil-Burman
 lastname: Burman
 picture: /img/pic_emil-burman.jpg
-position: PhD student
+position: Researcher
 email: buemil [at] chalmers.se
 flags:
   - se Sweden
-person-category: F PhD students
+person-category: H Visiting researchers
 template: people/profile
 ---
