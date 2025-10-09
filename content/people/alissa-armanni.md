@@ -2,7 +2,7 @@
 name: Alissa Armanni
 title: Alissa Armanni
 lastname: Armanni
-picture: img/pic_alissa-armanni.jpg
+picture: /img/pic_alissa-armanni.jpg
 position: MSc student
 email: armani [at] chalmers.se
 flags:
