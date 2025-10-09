@@ -2,7 +2,7 @@
 name: Emelie Lemann
 title: Emelie-Lemann
 lastname: Lemann
-picture: img/pic_emelie-lemann.jpg
+picture: /img/pic_emelie-lemann.jpg
 position: MSc student
 email: lemann [at] student.chalmers.se
 flags:
