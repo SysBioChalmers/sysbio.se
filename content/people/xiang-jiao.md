@@ -1,13 +1,12 @@
 ---
-name: 'Xiang Jiao, PhD'
+name: Xiang Jiao, PhD
 title: Xiang-Jiao
 lastname: Jiao
 picture: /img/pic_xiang-jiao.jpg
-position: PostDoc
-email: 'xiangj [at] chalmers.se'
+position: Researcher
+email: xiangj [at] chalmers.se
 flags:
   - cn China
-person-category: E Postdocs
+person-category: H Visiting researchers
 template: people/profile
 ---
-
