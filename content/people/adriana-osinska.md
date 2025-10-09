@@ -2,7 +2,7 @@
 name: Adriana Osinska
 title: Adriana-Osinska
 lastname: Osinska
-picture: img/pic_adriana-osinska.jpg
+picture: /img/pic_adriana-osinska.jpg
 position: Researcher
 email: osinska [at] chalmers.se
 flags:
