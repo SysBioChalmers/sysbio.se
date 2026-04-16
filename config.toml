@@ -25,19 +25,10 @@ paginate = 10
   URL = "/labs"
   Weight = 1.0
 [[menu.main]]
-  Name = "People"
-  parent = "about"
-  URL = "/people"
-  Weight = 2.0
-[[menu.main]]
   Name = "Group Photos"
   parent = "about"
   URL = "/group-photos"
-  Weight = 3.0
-[[menu.main]]
-  name = "Contact"
-  url  = "/contact"
-  weight = 6
+  Weight = 2.0
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -105,7 +96,7 @@ paginate = 10
   # For more informtion take a look at the README.
 
 [params.labs]
-  enable = true
+  enable = false
   # All labs are defined in their own files. You can find example items
   # at 'data/labs'.
   title = "Labs"
@@ -133,7 +124,7 @@ paginate = 10
 [params.organization]
   enable = true
   title = "Organization"
-  text = "**[Systems and Synthetic Biology](/people)** is headed by Professor Ivan Mijakovic and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young researchers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the [Department of Life Sciences at Chalmers University of Technology](http://www.chalmers.se/en/departments/life/)."
+  text = "**Systems and Synthetic Biology** is headed by Professor Ivan Mijakovic and is composed of several labs directed by faculty members at the department. The lab and computational facilities are shared among all members of Systems and Synthetic Biology. The division is very international with researchers from more than 30 countries and we have as a key objective to support young researchers in their careers. We are participants in several large research centers and in many international projects funded by the EU and other funding agencies. <br> The division of Systems and Synthetic Biology is part of the **Department of Life Sciences at Chalmers University of Technology**. Visit our Chalmers [SysBio website](http://www.chalmers.se/en/departments/life/research/systems-and-synthetic-biology/)"
   image = "img/organization.jpg"
   overview = "img/overview.jpg"
 
