@@ -15,6 +15,7 @@ template: people/profile
 * Publications - [PDF](/img/pub_jn2501.pdf) for download full list of publications  
 
 <br/>
+
 #### Education and degrees    
 1986 	**M.Sc. in Chemical Engineering**, Dept. of Biotechnology, DTU, Denmark    
 1989 	**Ph.D. in Biochemical Engineering**, DTU, Denmark  

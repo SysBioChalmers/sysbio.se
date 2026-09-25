@@ -1,14 +1,14 @@
 [context.production.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.166.0"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.119.0"
+  HUGO_VERSION = "0.166.0"
 [[redirects]]
   from = "/"
-  to = "https://www.chalmers.se/en/departments/life/research/systems-and-synthetic-biology/"
+  to = "https://www.chalmers.se/sysbio"
   status = 301
   force = true
 [[redirects]]
   from = "/index.html"
-  to = "https://www.chalmers.se/en/departments/life/research/systems-and-synthetic-biology/"
+  to = "https://www.chalmers.se/sysbio"
   status = 301
   force = true

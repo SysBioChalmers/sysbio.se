@@ -4,11 +4,12 @@
   -->
 
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.Language.Locale }}">
 
   {{ partial "GraMI/head.html" . }}
 
   <body>
+    {{ partial "unmaintained-banner.html" . }}
 
     <div id="all">
 

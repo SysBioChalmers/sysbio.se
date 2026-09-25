@@ -29,10 +29,10 @@ Troussicot L, Burmann BM, **Molin M**. 2021. Structural determinants of multimer
 
 **Molin M.** 2021. Roles of hydrogen peroxide and peroxiredoxin in the yeast replicative aging model of aging and age-related disease. Book chapter in ‘**Redox Regulation of Differentiation and De-differentiation**’. p. 249-67. Edited by Berndt C & Lillig H. ISBN 9780367895662. Book series “Oxidative Stress and Disease“, CRC Press, Taylor & Francis group, Eds. Enrique Cadenas and Helmut Sies.
 
-**Molin M****,* Logg K., Bodvard K., Peeters K, Forsmark A., Roger F., Jörhov A, Mishra N, Billod J-M, Amir S, Andersson M, Eriksson LA, Warringer J, Käll M, Blomberg A* 2020. Protein kinase A controls yeast growth in visible light. ***BMC biology*** 18 (1), 1-23.
+**Molin M**\*, Logg K., Bodvard K., Peeters K, Forsmark A., Roger F., Jörhov A, Mishra N, Billod J-M, Amir S, Andersson M, Eriksson LA, Warringer J, Käll M, Blomberg A\* 2020. Protein kinase A controls yeast growth in visible light. ***BMC biology*** 18 (1), 1-23.
 
 Roger F, Picazo C, Asami C, Hanzén S, Reiter W, Gao C, Lagniel G, Welkenhuysen N, Grøtli M, Labarre J, Hartl M and **Molin M**. 2020. Peroxiredoxin promotes longevity and H2O2-resistance in yeast through redox modulation of protein kinase A, ***eLIFE***, e60346.
 
-Bodvard K.**,* Peeters K.\*, Roger F.\*, Romanov N., Igbaria A., Welkenhuysen, N., Palais, G., Reiter W., Toledano M.B., Käll M. and **Molin M**. 2017. Light-sensing via hydrogen peroxide and a peroxiredoxin. ***Nature Communications*** (2017). 8, 14791, doi:10.1038/ncomms14791.
+Bodvard K.\*, Peeters K.\*, Roger F.\*, Romanov N., Igbaria A., Welkenhuysen, N., Palais, G., Reiter W., Toledano M.B., Käll M. and **Molin M**. 2017. Light-sensing via hydrogen peroxide and a peroxiredoxin. ***Nature Communications*** (2017). 8, 14791, doi:10.1038/ncomms14791.
 
 Hanzén S., Yang J., Vielfort K., Roger F., Andersson V., Zamarbide-Forés S., Andersson R, Malm L., Palais G., Biteau B., Liu B., Toledano M.B., **Molin M**.Ɨ, Nyström TƗ. 2016. Lifespan control by redox-dependent recruitment of chaperones to damaged and aggregated proteins. ***Cell*** 161 (1): 140-51. doi: 10.1016/j.cell.2016.05.006.
