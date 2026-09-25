@@ -22,9 +22,11 @@ Our research focused on systems biology of metabolism. Over the years we have us
 All research activities are now carried out in collaboration with former students and post docs of the group.
 <br/>
 <br/>
+
 **There are no current research projects**
 <br/>
 <br/>
+
 #### Publications
 
 [Full list of publications](/img/pub_jn2501.pdf) (PDF)
@@ -181,7 +183,7 @@ Parizad Babaei:\
 [*In silico* analysis of microbial communities through constraint-based metabolic modelling](https://research.chalmers.se/en/publication/508838) (ISBN 978-91-7597-876-5)
 
 Benjamín José Sánchez Barja:\
-[Computing abundance constraints in *Saccharomyces cerevisiae’s* metabolism] (https://research.chalmers.se/en/publication/508870)
+[Computing abundance constraints in *Saccharomyces cerevisiae’s* metabolism](https://research.chalmers.se/en/publication/508870)
 (ISBN 978-91-7597-863-5)
 
 Promi Das:\
@@ -202,7 +204,7 @@ Gang Li:\
 [Application of machine learning in systems biology](https://research.chalmers.se/en/publication/518453) (ISBN 978-91-7905-290-4)
 
 Simonas Marcisauskas:\
-[An insight towards food-related microbial sets through metabolic modelling and functional analysis] (https://research.chalmers.se/en/publication/518435)
+[An insight towards food-related microbial sets through metabolic modelling and functional analysis](https://research.chalmers.se/en/publication/518435)
 (ISBN 978-91-7905-276-8)
 
 Christoph Börlin:\

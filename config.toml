@@ -1,11 +1,12 @@
 baseurl = "https://www.sysbio.se/"
 title = "Systems and Synthetic Biology - SYSBIO"
-languageCode = "en-us"
+locale = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
 # Define the number of posts per page
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [menu]
 
@@ -144,13 +145,5 @@ paginate = 10
     disable = false
     privacyEnhanced = false
 
-[blackfriday]
-  fractions = false
-  hrefTargetBlank = true
-
-
-# # Only for local HUGO building - comment out when publishing
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true

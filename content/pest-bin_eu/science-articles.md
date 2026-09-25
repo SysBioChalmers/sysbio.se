@@ -5,7 +5,7 @@ weight: 55
 template: pest-bin_eu/single
 image: null
 ---
-**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf"rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
+**ESR 15 Thomas Vernay** has published her first popular science article with title <a href="/img/tvernay.pdf" rel="noopener noreferrer" target="_blank">Extreme microbes could hold the keys of a greener and healthier world</a>
 
 *21-07-2022*
 
@@ -23,7 +23,7 @@ image: null
 
 <br>
 
-**ESR11 Jose Maria Serpa Laço**  published his first popular science article with title  "<a href="/img/concursodivulgacion_joselaco.pdf"rel="noopener noreferrer" target="_blank"> Clinical environments as a potential reservoir for nosocomial infections"</a>
+**ESR11 Jose Maria Serpa Laço**  published his first popular science article with title  "<a href="/img/concursodivulgacion_joselaco.pdf" rel="noopener noreferrer" target="_blank"> Clinical environments as a potential reservoir for nosocomial infections"</a>
 
 *0﻿8-11-2022*
 
@@ -35,7 +35,7 @@ image: null
 
 <br>
 
-**ESR4 Lydia Palaiodimou** has published her first article. "<a href="/img/lpalaiodimou.pdf"rel="noopener noreferrer" target="_blank"> The fantastic journey of *Listeria monocytogenes"</a>
+**ESR4 Lydia Palaiodimou** has published her first article. "<a href="/img/lpalaiodimou.pdf" rel="noopener noreferrer" target="_blank"> The fantastic journey of *Listeria monocytogenes"</a>
 
 *1﻿5-02-2023*
 
@@ -66,7 +66,7 @@ image: null
 
 <br>
 
-**ESR5 Ema Svetlicic** published her first popular science article with title <a href="/img/popular_article_svetlicic_esr_5.pdf"rel="noopener noreferrer" target="_blank"> "Big Data and Host-Pathogen Interactions"</a>
+**ESR5 Ema Svetlicic** published her first popular science article with title <a href="/img/popular_article_svetlicic_esr_5.pdf" rel="noopener noreferrer" target="_blank"> "Big Data and Host-Pathogen Interactions"</a>
 
 *19-09-2023*
 
@@ -78,13 +78,13 @@ image: null
 
 <br>
 
-**ESR12 Anja Tušar** has published her third article with a title <a href="/img/urinary-tract-infections_atusaresr12-nr3.pdf"rel="noopener noreferrer" target="_blank"> "Urinary tract and it's unwanted invaders"</a>
+**ESR12 Anja Tušar** has published her third article with a title <a href="/img/urinary-tract-infections_atusaresr12-nr3.pdf" rel="noopener noreferrer" target="_blank"> "Urinary tract and it's unwanted invaders"</a>
 
 *17-05-2024*
 
 <br>
 
-**ESR3 Flavia Ferrara** has published her article. <a href="/img/essay-sustainable-development-1-.pdf"rel="noopener noreferrer" target="_blank"> "Ethical aspects of her research"</a> 
+**ESR3 Flavia Ferrara** has published her article. <a href="/img/essay-sustainable-development-1-.pdf" rel="noopener noreferrer" target="_blank"> "Ethical aspects of her research"</a> 
 
 *25-05-2024*
 
